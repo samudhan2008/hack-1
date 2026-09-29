@@ -1,0 +1,13 @@
+; Initial (deliberately wrong / incomplete) beliefs of the SJIT campus helper.
+(= (answer library-closing-time) "5:00 PM")
+(= (confidence library-closing-time) 0.6)
+(= (answer canteen-location) "Ground floor, Block A")
+(= (confidence canteen-location) 0.6)
+(= (answer wifi-password) "sjit2024")
+(= (confidence wifi-password) 0.5)
+(= (answer helpdesk-hours) "9:00 AM - 5:00 PM")
+(= (confidence helpdesk-hours) 0.6)
+(= (answer registration-deadline) "October 1st")
+(= (confidence registration-deadline) 0.4)
+(= (answer bus-route) "Route 12, every hour")
+(= (confidence bus-route) 0.5)
